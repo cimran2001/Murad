@@ -1,0 +1,40 @@
+Questions on the lecture.
+
+1. Truthtables:
+   x or y and not z
+   x and not x
+   x and y and not not y and not z and z
+   not x and (not y or not z)
+
+
+Exercises:
+
+1. User enters two numbers and an arithmetic operation (+, -, * or /)
+   Calculate and show the result
+
+<--Example-->
+
+Input:
+First number: 5
+Second number: 6
+Operation: +
+
+Output:
+Result: 11
+
+
+2. User enters the number of elements, then enters every element.
+   Show their sum.
+
+<--Example-->
+
+Input:
+Enter the number of elements: 5
+Enter element n1: 3
+Enter element n2: 2
+Enter element n3: 6
+Enter element n4: 0
+Enter element n5: -6
+
+Output:
+Result: 5
