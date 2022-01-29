@@ -20,7 +20,7 @@ else:
 a = 0
 b = 1
 
-while a < 100: # Fibonacci numbers less than 0
+while a < 100: # Fibonacci numbers less than 100
     print(a)
     temp = a
     a = b
