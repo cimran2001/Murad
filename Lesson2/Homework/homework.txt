@@ -1,0 +1,20 @@
+Questions on the lecture:
+
+1. Describe these learned string methods:
+   .capitalize()
+   .lower() and .casefold()
+   .find() and .index()
+   .format()
+   .count()
+   .strip()
+
+2. Describe these new string methods:
+   .upper()
+   .isalnum()
+   .isspace()
+   .title()
+
+
+Exercises:
+
+1. Problem Solving Flowchart
