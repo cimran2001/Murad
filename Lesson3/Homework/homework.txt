@@ -1,0 +1,19 @@
+Exercises:
+
+1. List of multiples of n from 1 to 100, for n in [2, 3, 7, 9]
+
+Output example: 
+n = 2 => [2, 4, 6, 8, ...]
+n = 3 => [3, 6, 9, 12, ...]
+etc.
+
+2. Terms of a Geometric Series
+
+3. L = [85, 34, 6, -3, 0, 6, 7, -5, 9]
+
+How to get:
+a) [-3, 0, -5]
+b) [34, 0, -5]
+c) [85, 34, 6]
+d) [9, -5, 7, 6, 0, -3, 6, 34, 85]
+Two methods: using slicing and methods of lists
