@@ -1,0 +1,7 @@
+1. Lists with Python
+
+2. Function to Ideal Gas Law
+
+3. Function to Normal Distribution
+
+4. Function for Terms of Geometric Series and Sum
