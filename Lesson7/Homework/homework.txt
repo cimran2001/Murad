@@ -1,0 +1,10 @@
+1. Out-of-the-box
+Implement addition, multiplication and exponentiation functions
+
+2. Towers of Hanoi
+Implement moves count function
+
+3. Project 1: Ackermann’s function
+
+4. Project 2: Find path
+Additional files are in Telegram
