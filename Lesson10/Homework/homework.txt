@@ -1,0 +1,9 @@
+1. Hands-on: Sets -> 3
+
+2. Capitals game
+
+Create a game, where program asks for 10 random capitals, and shows your
+score at the end.
+
+! Important:
+Lisbon, lisbon, \tLISBON -> ALL ARE ACCEPTABLE
